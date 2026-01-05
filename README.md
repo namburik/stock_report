@@ -57,3 +57,9 @@ docker stop <container-id>
 - The application connects to PostgreSQL at `localhost:5432` by default
 - Update the `CONNECTION_URI` in stock_report.py to match your PostgreSQL setup
 - Port 9501 is exposed for Streamlit web interface
+
+
+<img width="1467" height="788" alt="image" src="https://github.com/user-attachments/assets/da6a55d4-437c-400d-ad89-c1fab1ebaf9a" />
+
+<img width="1464" height="806" alt="image" src="https://github.com/user-attachments/assets/795813c9-6624-4e47-9f97-f578b74709a8" />
+
